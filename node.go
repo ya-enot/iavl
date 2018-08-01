@@ -7,8 +7,8 @@ import (
 
 	"golang.org/x/crypto/ripemd160"
 
-	"github.com/tendermint/go-wire"
-	cmn "github.com/tendermint/tmlibs/common"
+	"github.com/ya-enot/go-wire"
+	cmn "github.com/ya-enot/tmlibs/common"
 )
 
 // Node represents a node in a Tree.

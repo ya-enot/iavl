@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/pkg/errors"
-	dbm "github.com/tendermint/tmlibs/db"
+	dbm "github.com/ya-enot/tmlibs/db"
 )
 
 var ErrVersionDoesNotExist = fmt.Errorf("version does not exist")

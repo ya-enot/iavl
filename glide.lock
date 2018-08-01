@@ -1,5 +1,5 @@
-hash: d85321db3ba463c6bde8f76c65524d5bb8bcdbf43702d162b26b71a39d89a3b5
-updated: 2017-10-24T13:20:51.823688121+02:00
+hash: f97600f6e59764707fc76cd74a2e020dc29dcda70360608283bf7dc70e6616c3
+updated: 2018-08-01T21:41:25.0699963+03:00
 imports:
 - name: github.com/go-kit/kit
   version: d67bb4c202e3b91377d1079b110a6c9ce23ab2f8
@@ -40,12 +40,12 @@ imports:
   - leveldb/storage
   - leveldb/table
   - leveldb/util
-- name: github.com/tendermint/go-wire
-  version: 99d2169a1e39c65983eacaa1da867d6f3218e1c9
+- name: github.com/ya-enot/go-wire
+  version: 29512e9e33cbac8cfe44e73cb6092e98d2fa7c80
   subpackages:
   - data
-- name: github.com/tendermint/tmlibs
-  version: d4c6a68e5871be2d3091f12627eaf3ee15b42ed2
+- name: github.com/ya-enot/tmlibs
+  version: d9d7935b38c860fa18aebb703180185b5ea3d230
   subpackages:
   - common
   - db

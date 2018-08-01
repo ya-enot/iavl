@@ -6,10 +6,10 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/tendermint/go-wire"
-	. "github.com/tendermint/tmlibs/common"
-	"github.com/tendermint/tmlibs/db"
-	. "github.com/tendermint/tmlibs/test"
+	"github.com/ya-enot/go-wire"
+	. "github.com/ya-enot/tmlibs/common"
+	"github.com/ya-enot/tmlibs/db"
+	. "github.com/ya-enot/tmlibs/test"
 
 	"runtime"
 	"testing"

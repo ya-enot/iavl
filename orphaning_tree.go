@@ -1,7 +1,7 @@
 package iavl
 
 import (
-	cmn "github.com/tendermint/tmlibs/common"
+	cmn "github.com/ya-enot/tmlibs/common"
 )
 
 // orphaningTree is a tree which keeps track of orphaned nodes.

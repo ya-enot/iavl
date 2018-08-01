@@ -5,9 +5,9 @@ import (
 	"testing"
 
 	"github.com/pkg/errors"
-	"github.com/tendermint/tmlibs/db"
+	"github.com/ya-enot/tmlibs/db"
 
-	cmn "github.com/tendermint/tmlibs/common"
+	cmn "github.com/ya-enot/tmlibs/common"
 )
 
 // This file implement fuzz testing by generating programs and then running

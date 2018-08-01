@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	"github.com/pkg/errors"
-	"github.com/tendermint/go-wire"
-	"github.com/tendermint/go-wire/data"
+	"github.com/ya-enot/go-wire"
+	"github.com/ya-enot/go-wire/data"
 )
 
 // KeyProof represents a proof of existence or absence of a single key.

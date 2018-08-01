@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/pkg/errors"
-	"github.com/tendermint/go-wire/data"
+	"github.com/ya-enot/go-wire/data"
 )
 
 // KeyInRangeProof is an interface which covers both first-in-range and last-in-range proofs.

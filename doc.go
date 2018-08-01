@@ -1,7 +1,7 @@
 // Basic usage of VersionedTree.
 //
-//  import "github.com/tendermint/iavl"
-//  import "github.com/tendermint/tmlibs/db"
+//  import "github.com/ya-enot/iavl"
+//  import "github.com/ya-enot/tmlibs/db"
 //  ...
 //
 //  tree := iavl.NewVersionedTree(128, db.NewMemDB())

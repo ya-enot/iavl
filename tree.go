@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	cmn "github.com/tendermint/tmlibs/common"
-	dbm "github.com/tendermint/tmlibs/db"
+	cmn "github.com/ya-enot/tmlibs/common"
+	dbm "github.com/ya-enot/tmlibs/db"
 
 	"github.com/pkg/errors"
 )

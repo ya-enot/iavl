@@ -1,9 +1,9 @@
-package: github.com/tendermint/iavl
+package: github.com/ya-enot/iavl
 import:
-- package: github.com/tendermint/go-wire
-  version: develop
-- package: github.com/tendermint/tmlibs
-  version: develop
+- package: github.com/ya-enot/go-wire
+  version: ya-enot-develop
+- package: github.com/ya-enot/tmlibs
+  version: ya-enot-develop
   subpackages:
   - common
   - db
